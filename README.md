@@ -35,4 +35,6 @@ I am **Kuliiuu**/**Marneyy_** a student who develops random content
 
 ---
 
-⭐ *If you find my work interesting, consider giving it a star!*
+<div align="center">
+⭐ <i>If you find my work interesting, consider giving it a star!</i>
+</div>
