@@ -1,14 +1,14 @@
 # Kuliiuu
 > Minecraft Fan
 ---
-### 🎓 About Me
+## 🎓 About Me
 
 I am **Kuliiuu**/**Marneyy_** a student who develops random content
 
 - Active in the [GTNewHorizons](https://github.com/GTNewHorizons) community
 - Very professional
 ---
-### 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 **Languages**
 
@@ -26,7 +26,7 @@ I am **Kuliiuu**/**Marneyy_** a student who develops random content
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-CF137E?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
-### 🎯 Featured Projects
+## 🎯 Featured Projects
 
 [![GitHub](https://img.shields.io/badge/Dark--GTNH--Reimagined-474f58?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kuliiuu/Dark-GTNH-Reimagined)
 [![UI Pack](https://img.shields.io/badge/UI_Pack-9147ff?style=for-the-badge)](https://github.com/Kuliiuu/Dark-GTNH-Reimagined)
