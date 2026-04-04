@@ -33,6 +33,12 @@ I am **Kuliiuu**/**Marneyy_** a student who develops random content
 [![Stars](https://img.shields.io/github/stars/Kuliiuu/Dark-GTNH-Reimagined?style=for-the-badge&color=236ad3)](https://github.com/Kuliiuu/Dark-GTNH-Reimagined/stargazers)
 [![Forks](https://img.shields.io/github/forks/Kuliiuu/Dark-GTNH-Reimagined?style=for-the-badge&color=236ad3)](https://github.com/Kuliiuu/Dark-GTNH-Reimagined/forks)
 
+
+[![GitHub](https://img.shields.io/badge/QuietCaves-474f58?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kuliiuu/QuietCaves)
+[![UI Pack](https://img.shields.io/badge/Resource_Pack-d18a12?style=for-the-badge)](https://github.com/Kuliiuu/QuietCaves)
+[![Stars](https://img.shields.io/github/stars/Kuliiuu/QuietCaves?style=for-the-badge&color=236ad3)](https://github.com/Kuliiuu/QuietCaves/stargazers)
+[![Forks](https://img.shields.io/github/forks/Kuliiuu/QuietCaves?style=for-the-badge&color=236ad3)](https://github.com/Kuliiuu/QuietCaves/forks)
+
 ---
 
 <div align="center">
