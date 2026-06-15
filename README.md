@@ -6,6 +6,7 @@
 I am **Kuliiuu**/**Marneyy_** a student who develops random content
 
 - Active in the [GTNewHorizons](https://github.com/GTNewHorizons) community
+- Open Source contributor
 - Very professional
 ---
 ## 🛠️ Technology Stack
